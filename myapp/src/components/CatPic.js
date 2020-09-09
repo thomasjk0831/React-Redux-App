@@ -5,7 +5,8 @@ import { fetchData } from '../action'
 
 function CatPic(props){
     return(
-        <div>
+        <div className = "cat-container">
+            <h1>😺 Get Cat Pics 😸</h1>
             <div>
                 {
                     props.loading?(<p>loading</p>):
