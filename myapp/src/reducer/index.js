@@ -1,5 +1,5 @@
 export const initialState = {
-    pic : 'https://purr.objects-us-east-1.dream.io/i/tumblr_luhf8e8rwh1qaoexto1_1280.jpg',
+    pic : 'https://purr.objects-us-east-1.dream.io/i/shockedCat_1.jpg',
     loading : false
 }
 
