@@ -1,12 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import CatPic from './components/CatPic'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      test
-    </div>
+    <CatPic />
   );
 }
 
